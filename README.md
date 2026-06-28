@@ -13,5 +13,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1527-patients-with-a-condition) |
 | [1907-count-salary-categories](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
