@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1484-group-sold-products-by-the-date) |
