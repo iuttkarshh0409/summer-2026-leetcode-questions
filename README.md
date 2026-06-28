@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0180-consecutive-numbers) |
 | [1164-product-price-at-a-given-date](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1907-count-salary-categories](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
