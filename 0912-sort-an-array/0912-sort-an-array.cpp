@@ -1,40 +1,61 @@
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size() - 1);
+        vector<int> neg, pos;
+
+        for (int x : nums) {
+            if (x < 0)
+                neg.push_back(-x);
+            else
+                pos.push_back(x);
+        }
+
+        radixSort(pos);
+        radixSort(neg);
+
+        nums.clear();
+
+        // Restore negatives in reverse order
+        for (int i = neg.size() - 1; i >= 0; i--)
+            nums.push_back(-neg[i]);
+
+        // Append positives
+        for (int x : pos)
+            nums.push_back(x);
+
         return nums;
     }
 
 private:
-    void mergeSort(vector<int>& nums, int left, int right) {
-        if (left >= right) return;
+    void radixSort(vector<int>& arr) {
+        if (arr.empty()) return;
 
-        int mid = left + (right - left) / 2;
+        int mx = *max_element(arr.begin(), arr.end());
 
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
-
-        merge(nums, left, mid, right);
+        for (int exp = 1; mx / exp > 0; exp *= 10) {
+            countingSort(arr, exp);
+        }
     }
 
-    void merge(vector<int>& nums, int left, int mid, int right) {
-        vector<int> temp;
-        int i = left, j = mid + 1;
+    void countingSort(vector<int>& arr, int exp) {
+        int n = arr.size();
+        vector<int> output(n);
+        int count[10] = {0};
 
-        while (i <= mid && j <= right) {
-            if (nums[i] <= nums[j])
-                temp.push_back(nums[i++]);
-            else
-                temp.push_back(nums[j++]);
+        // Count digit frequencies
+        for (int x : arr)
+            count[(x / exp) % 10]++;
+
+        // Prefix sums
+        for (int i = 1; i < 10; i++)
+            count[i] += count[i - 1];
+
+        // Stable placement
+        for (int i = n - 1; i >= 0; i--) {
+            int digit = (arr[i] / exp) % 10;
+            output[--count[digit]] = arr[i];
         }
 
-        while (i <= mid)
-            temp.push_back(nums[i++]);
-
-        while (j <= right)
-            temp.push_back(nums[j++]);
-
-        for (int k = 0; k < temp.size(); k++)
-            nums[left + k] = temp[k];
+        arr = move(output);
     }
 };
