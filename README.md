@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1164-product-price-at-a-given-date) |
