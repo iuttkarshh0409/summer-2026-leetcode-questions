@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0912-sort-an-array) |
+| [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0715-range-module) |
+| [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
 ## Segment Tree
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
+## Matrix
+|  |
+| ------- |
+| [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 <!---LeetCode Topics End-->
