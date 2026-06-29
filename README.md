@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0577-employee-bonus) |
