@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0009-palindrome-number) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
 | [2485-find-the-pivot-integer](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
