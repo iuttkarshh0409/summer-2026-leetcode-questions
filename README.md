@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2485-find-the-pivot-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
