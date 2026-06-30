@@ -159,4 +159,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
