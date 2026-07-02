@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0912-sort-an-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0912-sort-an-array) |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
 | [2485-find-the-pivot-integer](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
