@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2488-count-subarrays-with-median-k](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2488-count-subarrays-with-median-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
