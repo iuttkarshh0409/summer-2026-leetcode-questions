@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
