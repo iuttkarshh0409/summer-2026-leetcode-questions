@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
