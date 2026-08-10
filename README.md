@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
+| [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
+| [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
+| [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0872-leaf-similar-trees) |
 ## Union-Find
@@ -317,4 +320,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
