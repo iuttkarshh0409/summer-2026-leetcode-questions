@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -376,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0399-evaluate-division) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
