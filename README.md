@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1192-critical-connections-in-a-network](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0872-leaf-similar-trees) |
+| [1192-critical-connections-in-a-network](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0778-swim-in-rising-water) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
