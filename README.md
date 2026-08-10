@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0912-sort-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
@@ -341,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
