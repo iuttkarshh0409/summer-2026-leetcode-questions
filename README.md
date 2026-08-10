@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1514-path-with-maximum-probability](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
@@ -465,4 +468,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
