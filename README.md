@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -418,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0785-is-graph-bipartite) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
