@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -244,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0872-leaf-similar-trees) |
 ## Union-Find
@@ -293,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0872-leaf-similar-trees) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
