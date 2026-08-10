@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [0912-sort-an-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0994-rotting-oranges) |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0797-all-paths-from-source-to-target) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
