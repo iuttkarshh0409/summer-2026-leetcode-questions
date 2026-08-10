@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
 | [0872-leaf-similar-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
@@ -284,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
