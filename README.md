@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0220-contains-duplicate-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0733-flood-fill) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0207-course-schedule) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0684-redundant-connection) |
