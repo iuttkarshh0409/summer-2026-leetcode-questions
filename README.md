@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quickselect
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
 | [2488-count-subarrays-with-median-k](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2488-count-subarrays-with-median-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
