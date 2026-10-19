@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0728-self-dividing-numbers](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0728-self-dividing-numbers) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
 | [2485-find-the-pivot-integer](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
