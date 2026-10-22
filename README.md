@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -592,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1146-snapshot-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
