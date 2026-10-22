@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0146-lru-cache) |
 | [0715-range-module](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0715-range-module) |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0146-lru-cache) |
 | [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
