@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0981-time-based-key-value-store) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1768-merge-strings-alternately) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0728-self-dividing-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
 | [2485-find-the-pivot-integer](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
@@ -604,4 +606,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
