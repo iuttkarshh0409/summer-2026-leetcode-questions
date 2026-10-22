@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
