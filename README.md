@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1146-snapshot-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1146-snapshot-array) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0146-lru-cache) |
 | [0715-range-module](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0715-range-module) |
 | [0981-time-based-key-value-store](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1146-snapshot-array) |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
 ## Segment Tree
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0997-find-the-town-judge) |
+| [1146-snapshot-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1146-snapshot-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
@@ -578,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0239-sliding-window-maximum) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
