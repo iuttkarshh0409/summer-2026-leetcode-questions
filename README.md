@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0130-surrounded-regions) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0220-contains-duplicate-iii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0049-group-anagrams) |
 | [0399-evaluate-division](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0347-top-k-frequent-elements) |
