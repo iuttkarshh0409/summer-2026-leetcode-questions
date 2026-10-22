@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Sliding Window
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union-Find
 |  |
 | ------- |
