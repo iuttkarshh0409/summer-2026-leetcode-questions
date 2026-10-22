@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
