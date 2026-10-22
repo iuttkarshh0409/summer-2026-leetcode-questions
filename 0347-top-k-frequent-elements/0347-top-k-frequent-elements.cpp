@@ -1,30 +1,35 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
+        unordered_map<int, int> freq;
 
-        unordered_map<int,int> freq;
+        for (int num : nums) {
+            freq[num]++;
+        }
 
-        for(int x : nums)
-            freq[x]++;
+        priority_queue<pair<int, int>,
+                       vector<pair<int, int>>,
+                       greater<pair<int, int>>> pq;
 
-        vector<vector<int>> bucket(nums.size()+1);
+        for (auto& [num, count] : freq) {
+            pq.push({count, num});
 
-        for(auto &p : freq)
-            bucket[p.second].push_back(p.first);
-
-        vector<int> ans;
-
-        for(int i = nums.size(); i >= 1; i--){
-
-            for(int x : bucket[i]){
-
-                ans.push_back(x);
-
-                if(ans.size()==k)
-                    return ans;
+            if (pq.size() > k) {
+                pq.pop();
             }
         }
 
-        return ans;
+        vector<int> result;
+
+        while (!pq.empty()) {
+            result.push_back(pq.top().second);
+            pq.pop();
+        }
+
+        return result;
     }
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
