@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0436-find-right-interval](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0690-employee-importance](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0690-employee-importance) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0692-top-k-frequent-words) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0035-search-insert-position) |
+| [0436-find-right-interval](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0778-swim-in-rising-water) |
