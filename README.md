@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0056-merge-intervals) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
