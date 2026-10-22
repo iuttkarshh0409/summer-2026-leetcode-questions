@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0981-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [1768-merge-strings-alternately](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Linked List
 |  |
