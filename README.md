@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1478-allocate-mailboxes) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2080-range-frequency-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2080-range-frequency-queries) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1476-subrectangle-queries) |
 | [1631-path-with-minimum-effort](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
