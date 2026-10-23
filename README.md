@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2488-count-subarrays-with-median-k](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/2488-count-subarrays-with-median-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/iuttkarshh0409/summer-2026-leetcode-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bitmask
 |  |
 | ------- |
